@@ -1,0 +1,14 @@
+.header {
+  padding: 100px 0;
+  background: #161616;
+  color: #fff;
+}
+.header h1,
+.contents h1 {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.footer {
+  padding: 150px 0;
+  background: #fff;
+}
