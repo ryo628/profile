@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "はじめに"
+date:   2018-07-13 16:07:47 +0900
+categories: diary
+---
+てすと投稿。
